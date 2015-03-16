@@ -1,0 +1,1 @@
+LibreOffice? là một hệ chương trình văn phòng đồ sợ với hơn 20 triệu dòng mã nguồn C++. Cộng với cơ hội làm việc với những lập trình viên mã mở tài hoa trong dự án này là cơ hội phát triển kỹ năng cho các bạn sinh viên.
